@@ -140,8 +140,5 @@ dmypy.json
 # Downloaded pretrained embeddings
 .vector_cache
 
-# saved models
-/models
-
 # lightning logs
 /lightning_logs
